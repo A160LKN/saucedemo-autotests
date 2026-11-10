@@ -1,0 +1,14 @@
+# Maven: результаты сборки, отчёты
+target/
+
+# Allure: скачанная программа и результаты
+.allure/
+allure-results/
+allure-report/
+
+# IntelliJ IDEA: личные настройки среды
+.idea/
+*.iml
+
+# macOS: служебные файлы
+.DS_Store
