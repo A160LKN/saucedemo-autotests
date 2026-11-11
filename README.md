@@ -1,4 +1,4 @@
-# SauceDemo Autotests
+# SauceDemo Autotests (Java)
 
 Учебный проект UI-автотестов для демо-магазина [saucedemo.com](https://www.saucedemo.com/).
 
